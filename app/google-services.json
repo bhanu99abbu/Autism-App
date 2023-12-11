@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "728541796091",
+    "project_id": "autism-app-44f4e",
+    "storage_bucket": "autism-app-44f4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728541796091:android:4f59f04f2f8b8bb628025e",
+        "android_client_info": {
+          "package_name": "com.bhanu.autism"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChewRwVNdUPsZe7kPE0gmfxhdmdI4Gxsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
