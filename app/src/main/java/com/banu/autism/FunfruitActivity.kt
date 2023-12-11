@@ -87,7 +87,7 @@ fun Greeting2(name: String, modifier: Modifier = Modifier) {
             Image(
                 painterResource(id = R.drawable.fru),
                 modifier = Modifier
-                    .requiredHeight(500.dp),
+                    .requiredHeight(499.dp),
                 contentDescription = "",
                 contentScale = ContentScale.Fit
             )
