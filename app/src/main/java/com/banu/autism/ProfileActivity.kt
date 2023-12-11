@@ -132,11 +132,10 @@ class ProfileActivity : ComponentActivity() {
                         horizontalAlignment = Alignment.CenterHorizontally
                     ) {
 
-                        HeadingTextComponent(value = "Name : bhanu")
 
-                        HeadingTextComponent(value = "Email : bhanu@gmail.com")
 
-                        HeadingTextComponent(value = "Location : Middlesbrough ")
+
+
 
 
                         TakePhotoButton(
