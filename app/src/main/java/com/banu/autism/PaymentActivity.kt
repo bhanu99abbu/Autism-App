@@ -48,7 +48,7 @@ class AddtoCartActivity : ComponentActivity() {
 
             val context = LocalContext.current
             val gradient45 = Brush.linearGradient(
-                colors = listOf(Color.White, Color.Green),
+                colors = listOf(Color.White, Color.Blue),
                 start = Offset(0f, Float.POSITIVE_INFINITY),
                 end = Offset(Float.POSITIVE_INFINITY, 0f)
             )
