@@ -62,7 +62,7 @@ class OrderSuccessActivity : ComponentActivity() {
                         .background(gradient45),
                         verticalArrangement = Arrangement.Center,
                         horizontalAlignment = Alignment.CenterHorizontally) {
-                        HeadingTextComponent(value = "Subscription Successfully Completed")
+                        HeadingTextComponent(value = "payment Successfully Completed")
                         Spacer(modifier = Modifier.height(25.dp))
                         Image(painter = painterResource(id = R.drawable.order_sucess_img),contentDescription = null)
                         Spacer(modifier = Modifier.height(105.dp))
