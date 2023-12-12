@@ -180,7 +180,7 @@ fun MovieDetail(movie: Autism) {
                     Text(
                         text = "Get Subscription",
                         fontSize = 18.sp,
-                        color = Color.White,
+                        color = Color.Cyan,
                         fontWeight = FontWeight.Bold)
                 }
             }
